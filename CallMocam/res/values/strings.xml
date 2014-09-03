@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CallMocam</string>
+    <string name="call_pufa_card">召唤浦发联名卡</string>
+    <string name="action_settings">Settings</string>
+    <string name="card_package_name">请输入启动卡应用的包名：</string>
+    <string name="card_class_name">请输入启动卡应用的类名：</string>
+    <string name="btn_goto_third_part_client">GOGOGO!!</string>
+    <string name="copy_package_name">复制包名</string>
+    <string name="copy_complete">复制完成</string>
+    <string name="package_name_is_empty">包名为空！！！</string>
+    <string name="class_name_is_empty">类名为空！！！</string>
+    
+</resources>
