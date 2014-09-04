@@ -7,6 +7,7 @@
     <string name="card_package_name">请输入启动卡应用的包名：</string>
     <string name="card_class_name">请输入启动卡应用的类名：</string>
     <string name="btn_goto_third_part_client">GOGOGO!!</string>
+    <string name="btn_save_package_name">保存此包名</string>
     <string name="copy_package_name">复制包名</string>
     <string name="copy_complete">复制完成</string>
     <string name="package_name_is_empty">包名为空！！！</string>
